@@ -15,12 +15,12 @@ Devem ser utilizadas as seguintes tecnologias:
 
 API: [https://developer.marvel.com](https://developer.marvel.com)
 
-Modo básico o App consiste de uma tela de lista de quadrinhos, uma tela de detalhe do quadrinho (comics), uma funcionalidade de seleção dos quadrinhos e uma funcionalidades para envio via e-mail dos quadrinhos selecionados.
+Modo básico o App consiste em uma tela de lista de quadrinhos, uma tela de detalhe do quadrinho (comics), uma funcionalidade de seleção dos quadrinhos e uma funcionalidade para envio via e-mail dos quadrinhos selecionados.
 
-Qualquer funcionalidade extra C) bem vinda para agregar na solução básica proposta.
+Qualquer funcionalidade extra é bem vinda para agregar na solução básica proposta.
 
 O layout e por sua conta, seja criativo.
-A arquitetura C) por sua conta, seja esperto. 
+A arquitetura é por sua conta, seja esperto. 
 
 Você será avaliado pela qualidade do código, pela modularidade, pela legibilidade, pela criatividade, pela quantidade de funcionalidades básicas e extra.
 
@@ -51,7 +51,7 @@ Todos os fontes devem estar disponíveis para avaliação em um projeto github d
 
 Prazo: 48 horas
 
-# Arquitetura da solução/O que fazer
+# Arquitetura da solução o que fazer
 
 No arquivo README do projeto explique o funcionamento e a solução adotada na sua implementação do desafio.
 
